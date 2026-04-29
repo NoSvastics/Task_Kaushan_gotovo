@@ -1,0 +1,9 @@
+C:\Users\weird\Desktop\Task_Kaushan\bin\Debug\Task_Kaushan.exe.config
+C:\Users\weird\Desktop\Task_Kaushan\bin\Debug\Task_Kaushan.exe
+C:\Users\weird\Desktop\Task_Kaushan\bin\Debug\Task_Kaushan.pdb
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.csproj.AssemblyReference.cache
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.Properties.Resources.resources
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.csproj.GenerateResource.cache
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.csproj.CoreCompileInputs.cache
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.exe
+C:\Users\weird\Desktop\Task_Kaushan\obj\Debug\Task_Kaushan.pdb
